@@ -27,4 +27,5 @@ Out of the 75 responses I received from these AI systems only 1 of them was vuln
 47 times out of the 75 responses the AI system did not write code that parameterized queries itself but used object relational mapping libraries that handle writing SQL queries in a secure by default way for the user. I applaud the AI system for telling users go this route because it causes less room for error if the user modifies the code that was given to them.
 
 Some responses even included a bullet point about security in the summary telling the user that it handled input in a secure way to prevent vulnerabilities.
-I jotted down the prompts I used and the results that I got from them along with some notes about each of the queries. You can find it in the `AISecureCode.csv`
+I jotted down the prompts I used and the results that I got from them along with some notes about each of the queries. You can find it in the `AISecureCode.csv` file.
+
